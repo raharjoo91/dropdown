@@ -1,0 +1,5 @@
+/* style.css */
+option.high { color: red; }
+option.medium { color: darkorange; }
+option.low { color: yellow; background-color: black; /* To make the yellow text visible */ }
+option.good-practice { color: green; }
